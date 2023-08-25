@@ -9,6 +9,7 @@ if you would like to mess around with the configuration, use the 'config.py' fil
 this project was done by following @BotAcademyYT's video on youtube:
 
 www.youtube.com/watch?v=9RN2Wr8xvro
+
 https://www.youtube.com/@BotAcademyYT
 
 prior to this video, i did not know how to make a neural network in Python.
