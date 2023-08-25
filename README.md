@@ -10,8 +10,6 @@ this project was done by following @BotAcademyYT's video on youtube:
 
 www.youtube.com/watch?v=9RN2Wr8xvro
 
-https://www.youtube.com/@BotAcademyYT
-
 prior to this video, i did not know how to make a neural network in Python.
 as a result, a lot of the code is copied directly from thier video, however, i have commented on my code, in my own words, what the code does.
 by following along with this video, i have been able to get a better understanding of neural networks
